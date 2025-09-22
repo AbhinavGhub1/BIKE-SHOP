@@ -1,5 +1,4 @@
-# BIKE-SHOP
-Show room for selling a Second hand bikes for low prices including Discount according to TAX and Roadprice
+
 cart = []
 bike_menu = {
     "RXZ"     : 100000, 
